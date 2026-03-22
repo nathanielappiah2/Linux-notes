@@ -73,7 +73,7 @@ ssh thor@172.16.238.3
 ![Root Access](Linux-user-root.jpeg)
 
 ### File Download & OS Check
-![Download](linux-download-os.jpeg)
+![Download](linux-download-os. jpeg)
 
 ---
 
